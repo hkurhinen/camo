@@ -36,7 +36,8 @@
   },
   "dependencies": {
     "depd": "1.1.0",
-    "lodash": "3.9.3"
+    "lodash": "3.9.3",
+    "randomstring": "^1.1.5"
   },
   "optionalDependencies": {
     "mongodb": "2.0.42",
